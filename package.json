@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AleksandrGarnov/EPAM-Practical-Task-1/issues"
   },
-  "homepage": "https://github.com/AleksandrGarnov/EPAM-Practical-Task-1#readme"
+  "homepage": "https://github.com/AleksandrGarnov/EPAM-Practical-Task-1#readme",
+  
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
 }
